@@ -1,0 +1,14 @@
+C:\Users\72358\RiderProjects\ConsoleApp1\TipoDeDatos\bin\Debug\net9.0\TipoDeDatos.exe
+C:\Users\72358\RiderProjects\ConsoleApp1\TipoDeDatos\bin\Debug\net9.0\TipoDeDatos.deps.json
+C:\Users\72358\RiderProjects\ConsoleApp1\TipoDeDatos\bin\Debug\net9.0\TipoDeDatos.runtimeconfig.json
+C:\Users\72358\RiderProjects\ConsoleApp1\TipoDeDatos\bin\Debug\net9.0\TipoDeDatos.dll
+C:\Users\72358\RiderProjects\ConsoleApp1\TipoDeDatos\bin\Debug\net9.0\TipoDeDatos.pdb
+C:\Users\72358\RiderProjects\ConsoleApp1\TipoDeDatos\obj\Debug\net9.0\TipoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\72358\RiderProjects\ConsoleApp1\TipoDeDatos\obj\Debug\net9.0\TipoDeDatos.AssemblyInfoInputs.cache
+C:\Users\72358\RiderProjects\ConsoleApp1\TipoDeDatos\obj\Debug\net9.0\TipoDeDatos.AssemblyInfo.cs
+C:\Users\72358\RiderProjects\ConsoleApp1\TipoDeDatos\obj\Debug\net9.0\TipoDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\72358\RiderProjects\ConsoleApp1\TipoDeDatos\obj\Debug\net9.0\TipoDeDatos.dll
+C:\Users\72358\RiderProjects\ConsoleApp1\TipoDeDatos\obj\Debug\net9.0\refint\TipoDeDatos.dll
+C:\Users\72358\RiderProjects\ConsoleApp1\TipoDeDatos\obj\Debug\net9.0\TipoDeDatos.pdb
+C:\Users\72358\RiderProjects\ConsoleApp1\TipoDeDatos\obj\Debug\net9.0\TipoDeDatos.genruntimeconfig.cache
+C:\Users\72358\RiderProjects\ConsoleApp1\TipoDeDatos\obj\Debug\net9.0\ref\TipoDeDatos.dll

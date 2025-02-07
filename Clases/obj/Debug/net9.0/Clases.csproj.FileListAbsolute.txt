@@ -1,0 +1,14 @@
+C:\Users\72358\RiderProjects\ConsoleApp1\Clases\bin\Debug\net9.0\Clases.exe
+C:\Users\72358\RiderProjects\ConsoleApp1\Clases\bin\Debug\net9.0\Clases.deps.json
+C:\Users\72358\RiderProjects\ConsoleApp1\Clases\bin\Debug\net9.0\Clases.runtimeconfig.json
+C:\Users\72358\RiderProjects\ConsoleApp1\Clases\bin\Debug\net9.0\Clases.dll
+C:\Users\72358\RiderProjects\ConsoleApp1\Clases\bin\Debug\net9.0\Clases.pdb
+C:\Users\72358\RiderProjects\ConsoleApp1\Clases\obj\Debug\net9.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\72358\RiderProjects\ConsoleApp1\Clases\obj\Debug\net9.0\Clases.AssemblyInfoInputs.cache
+C:\Users\72358\RiderProjects\ConsoleApp1\Clases\obj\Debug\net9.0\Clases.AssemblyInfo.cs
+C:\Users\72358\RiderProjects\ConsoleApp1\Clases\obj\Debug\net9.0\Clases.csproj.CoreCompileInputs.cache
+C:\Users\72358\RiderProjects\ConsoleApp1\Clases\obj\Debug\net9.0\Clases.dll
+C:\Users\72358\RiderProjects\ConsoleApp1\Clases\obj\Debug\net9.0\refint\Clases.dll
+C:\Users\72358\RiderProjects\ConsoleApp1\Clases\obj\Debug\net9.0\Clases.pdb
+C:\Users\72358\RiderProjects\ConsoleApp1\Clases\obj\Debug\net9.0\Clases.genruntimeconfig.cache
+C:\Users\72358\RiderProjects\ConsoleApp1\Clases\obj\Debug\net9.0\ref\Clases.dll

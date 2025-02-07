@@ -1,0 +1,14 @@
+C:\Users\72358\RiderProjects\ConsoleApp1\Variables\bin\Debug\net9.0\Variables.exe
+C:\Users\72358\RiderProjects\ConsoleApp1\Variables\bin\Debug\net9.0\Variables.deps.json
+C:\Users\72358\RiderProjects\ConsoleApp1\Variables\bin\Debug\net9.0\Variables.runtimeconfig.json
+C:\Users\72358\RiderProjects\ConsoleApp1\Variables\bin\Debug\net9.0\Variables.dll
+C:\Users\72358\RiderProjects\ConsoleApp1\Variables\bin\Debug\net9.0\Variables.pdb
+C:\Users\72358\RiderProjects\ConsoleApp1\Variables\obj\Debug\net9.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\72358\RiderProjects\ConsoleApp1\Variables\obj\Debug\net9.0\Variables.AssemblyInfoInputs.cache
+C:\Users\72358\RiderProjects\ConsoleApp1\Variables\obj\Debug\net9.0\Variables.AssemblyInfo.cs
+C:\Users\72358\RiderProjects\ConsoleApp1\Variables\obj\Debug\net9.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\72358\RiderProjects\ConsoleApp1\Variables\obj\Debug\net9.0\Variables.dll
+C:\Users\72358\RiderProjects\ConsoleApp1\Variables\obj\Debug\net9.0\refint\Variables.dll
+C:\Users\72358\RiderProjects\ConsoleApp1\Variables\obj\Debug\net9.0\Variables.pdb
+C:\Users\72358\RiderProjects\ConsoleApp1\Variables\obj\Debug\net9.0\Variables.genruntimeconfig.cache
+C:\Users\72358\RiderProjects\ConsoleApp1\Variables\obj\Debug\net9.0\ref\Variables.dll

@@ -1,0 +1,14 @@
+C:\Users\72358\RiderProjects\ConsoleApp1\SentenciasDeControl\bin\Debug\net9.0\SentenciasDeControl.exe
+C:\Users\72358\RiderProjects\ConsoleApp1\SentenciasDeControl\bin\Debug\net9.0\SentenciasDeControl.deps.json
+C:\Users\72358\RiderProjects\ConsoleApp1\SentenciasDeControl\bin\Debug\net9.0\SentenciasDeControl.runtimeconfig.json
+C:\Users\72358\RiderProjects\ConsoleApp1\SentenciasDeControl\bin\Debug\net9.0\SentenciasDeControl.dll
+C:\Users\72358\RiderProjects\ConsoleApp1\SentenciasDeControl\bin\Debug\net9.0\SentenciasDeControl.pdb
+C:\Users\72358\RiderProjects\ConsoleApp1\SentenciasDeControl\obj\Debug\net9.0\SentenciasDeControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\72358\RiderProjects\ConsoleApp1\SentenciasDeControl\obj\Debug\net9.0\SentenciasDeControl.AssemblyInfoInputs.cache
+C:\Users\72358\RiderProjects\ConsoleApp1\SentenciasDeControl\obj\Debug\net9.0\SentenciasDeControl.AssemblyInfo.cs
+C:\Users\72358\RiderProjects\ConsoleApp1\SentenciasDeControl\obj\Debug\net9.0\SentenciasDeControl.csproj.CoreCompileInputs.cache
+C:\Users\72358\RiderProjects\ConsoleApp1\SentenciasDeControl\obj\Debug\net9.0\SentenciasDeControl.dll
+C:\Users\72358\RiderProjects\ConsoleApp1\SentenciasDeControl\obj\Debug\net9.0\refint\SentenciasDeControl.dll
+C:\Users\72358\RiderProjects\ConsoleApp1\SentenciasDeControl\obj\Debug\net9.0\SentenciasDeControl.pdb
+C:\Users\72358\RiderProjects\ConsoleApp1\SentenciasDeControl\obj\Debug\net9.0\SentenciasDeControl.genruntimeconfig.cache
+C:\Users\72358\RiderProjects\ConsoleApp1\SentenciasDeControl\obj\Debug\net9.0\ref\SentenciasDeControl.dll
