@@ -6,6 +6,6 @@
 public interface ILinkedList<T> where T : class
 {
     void append(T data); // Agrega un nodo al final de la lista
-    void remove(int id); // Elimina un nodo de la lista
+    void remove(T data); // Elimina un nodo de la lista
     void printList(); // Imprime la lista
 }

@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\72358\\.nuget\\packages\\": {}
+    "C:\\Users\\santi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\72358\\RiderProjects\\ConsoleApp1\\Funciones\\Funciones.csproj",
+      "projectUniqueName": "C:\\Users\\santi\\Desktop\\Edd\\Curso_C_sharp\\Funciones\\Funciones.csproj",
       "projectName": "Funciones",
-      "projectPath": "C:\\Users\\72358\\RiderProjects\\ConsoleApp1\\Funciones\\Funciones.csproj",
-      "packagesPath": "C:\\Users\\72358\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\72358\\RiderProjects\\ConsoleApp1\\Funciones\\obj\\",
+      "projectPath": "C:\\Users\\santi\\Desktop\\Edd\\Curso_C_sharp\\Funciones\\Funciones.csproj",
+      "packagesPath": "C:\\Users\\santi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\santi\\Desktop\\Edd\\Curso_C_sharp\\Funciones\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\72358\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\santi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -42,7 +42,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       },
       "SdkAnalysisLevel": "9.0.100"
     },
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\santi\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -27,7 +27,7 @@ namespace UnsafeLinkedList
                 
                 Console.WriteLine("\n" + "Eliminar estudiante 202107859" + "\n");
                 
-                lista.remove(202107859);
+                lista.remove(estudiante_2);
                 
                 lista.printList();
             }

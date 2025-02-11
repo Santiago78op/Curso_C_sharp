@@ -67,13 +67,13 @@ public unsafe class Linked_List<T> : ILinkedList<T>, IDisposable where T : class
    * Metodo para eliminar un nodo de la lista
    * @param id Identificador de la persona a eliminar
    */
-    public void remove(int id)
+    public void remove(T data)
     {
         Node<T>* temp = _head;
         Node<T>* prev = null;
         while (temp != null)
         {
-            if (temp->_data is Estudiante estudiante && estudiante.Id == id)
+            if (temp->_data.Equals(data))
             {
                 if (prev == null)
                 {
